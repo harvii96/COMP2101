@@ -1,6 +1,7 @@
-#!/bin/#!/usr/bin/env bash
-#My second Script - helloworldtemplated.#!/bin/sh
-cat <<EDF
+#!/bin/bash
+# My second script - helloworldtemplated.sh
+
+cat <<EOF
 Hello World!
 I am process # $$
-EDF
+EOF
